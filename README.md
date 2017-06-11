@@ -1,3 +1,3 @@
 # hello-world
-My first repo
+My first repo.
 This is me, **Peibol** getting back in the game!
